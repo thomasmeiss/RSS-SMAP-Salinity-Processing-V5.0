@@ -6,4 +6,5 @@ Thomas Meissner
 Remote Sensing Systems (RSS) 
 
 
-see Instructions.docx for details
+see Release and Instructions.docx for details
+see Release for data: static tables, sample ancillary fields, sample input, sample output.
